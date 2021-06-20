@@ -1,5 +1,5 @@
 # TUGAS AKHIR VISDAT KELOMPOK 7
-Kami kelompok 7 mata kuliah Analisis dan Visualisasi Data yang beranggotakan :
+Kami kelompok 7 mata kuliah Visualisasi Data dan Informasi yang beranggotakan :
   
   (1) Ahmad Azam Izudin (221810117)
   
