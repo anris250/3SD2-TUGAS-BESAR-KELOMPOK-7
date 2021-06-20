@@ -1,4 +1,4 @@
-# 3SD2-TUGAS-BESAR-KELOMPOK-7
+# TUGAS AKHIR VISDAT KELOMPOK 7
 Kami kelompok 7 mata kuliah Analisis dan Visualisasi Data yang beranggotakan :
   
   (1) Ahmad Azam Izudin (221810117)
